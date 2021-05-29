@@ -1,0 +1,94 @@
+body{ background-color: bisque; 
+
+}
+
+#title{ Color: rgb(139, 133, 130);
+text-align:center;
+Font-size: 40px;
+margin-top: -10px;
+}
+
+#subheading{ Color: rgb(139, 133, 130);
+text-align:center;
+margin-top: -30px;
+}
+
+
+.c1{
+
+  background-color:rgba(97, 27, 10, 0.678);
+}
+
+.c2{
+
+  background-color: rgb(97, 27, 10, 0.678);
+  
+}
+
+.tabletitle{
+
+  Color: rgb(0, 0, 0);
+}
+table{
+
+margin-left:auto;
+margin-right:auto;
+border: 1px solid rgb(139, 133, 130);
+padding: 10px 10px 10px 10px;
+width:150px;
+height:175px;
+}
+
+
+#bottom{ margin-top: 200px;}
+
+
+ul{ margin-top: -150px; 
+
+}
+
+
+h4{font-size: 18px;
+color: rgb(124, 113, 108);
+font-family: ObjectSans;
+
+}
+
+@font-face{
+  font-family:ObjectSans;
+  src:url("Object Sans - Free for personal use/ObjectSans-Regular.otf")
+}
+
+
+#CssAbleto{font-size: 18px;
+color: rgb(124, 113, 108);
+font-family: ObjectSans;
+margin-top: 35px;
+}
+
+#Csslist{
+
+  margin-top: 50px;
+}
+
+img{
+  position:relative;
+ left:270px;
+  height: 200px;
+  width: 200px;
+}
+
+#Javascriptlist{margin-top:50px;}
+
+
+a{
+  
+color:
+rgb(124, 113, 108);
+
+}
+
+a:hover{
+
+  color:blue;
+}
